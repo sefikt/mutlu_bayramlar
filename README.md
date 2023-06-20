@@ -1,16 +1,9 @@
 # mutlu_bayramlar
 
-A new Flutter project.
+Mutlu bayramlar tasarımlı bir flutter uygulaması.
 
-## Getting Started
+Merhaba bu projemin adı Mutlu Bayramlar.
 
-This project is a starting point for a Flutter application.
+Uygulamada Mutlu bayramlar temalı bir tasarım bulunmaktadır.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![tanıtım](https://github.com/sefikt/mutlu_bayramlar/assets/88979070/cd54cb7b-4444-4ea0-a3f4-4beaa6efaca8)
